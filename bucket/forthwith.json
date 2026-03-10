@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0-rc.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/forthwith-dev/forthwith-releases/releases/download/v0.1.0-rc.1/forthwith_0.1.0-rc.1_windows_amd64.zip",
+            "bin": [
+                "forthwith.exe"
+            ],
+            "hash": "014e9fe213bd2c93b134d58eca2a97af9861fba45861bfea46ce22847e7187f2"
+        },
+        "arm64": {
+            "url": "https://github.com/forthwith-dev/forthwith-releases/releases/download/v0.1.0-rc.1/forthwith_0.1.0-rc.1_windows_arm64.zip",
+            "bin": [
+                "forthwith.exe"
+            ],
+            "hash": "80d4d959e5771fbd5eeadc685d633c7e9f3b0bed3c15db777a5cb9066205b75c"
+        }
+    },
+    "homepage": "https://github.com/forthwith-dev/forthwith-cli",
+    "license": "Proprietary",
+    "description": "Forthwith CLI - manage your Forthwith resources from the command line"
+}
