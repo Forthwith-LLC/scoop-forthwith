@@ -1,16 +1,16 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Forthwith CLI - manage your Forthwith resources from the command line",
   "homepage": "https://github.com/Forthwith-LLC/forthwith-releases",
   "license": "Proprietary",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/Forthwith-LLC/forthwith-releases/releases/download/v1.0.0/forthwith_1.0.0_windows_amd64.zip",
-      "hash": "eeca285a14cd1cb956391b132169bbff126a2544d04b3025bc82139807f9d378"
+      "url": "https://github.com/Forthwith-LLC/forthwith-releases/releases/download/v1.0.1/forthwith_1.0.1_windows_amd64.zip",
+      "hash": "d8ccf4e7e14614a57bdfb381f3d3a45d6cec131dae5a1211450d7dba5734b5e6"
     },
     "arm64": {
-      "url": "https://github.com/Forthwith-LLC/forthwith-releases/releases/download/v1.0.0/forthwith_1.0.0_windows_arm64.zip",
-      "hash": "592801ef5a4b39140533ab57a6e12019937f4901346cc38447b78ebfa34ee1bc"
+      "url": "https://github.com/Forthwith-LLC/forthwith-releases/releases/download/v1.0.1/forthwith_1.0.1_windows_arm64.zip",
+      "hash": "1c4f6cedad4898e6ea8640cfe8bbe5760be604a6288eab42e8bf2307bc7b6782"
     }
   },
   "bin": "forthwith.exe"
