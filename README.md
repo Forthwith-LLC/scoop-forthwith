@@ -5,7 +5,7 @@ Scoop bucket for [Forthwith CLI](https://forthwith.dev) — the translation auto
 ## Usage
 
 ```powershell
-scoop bucket add forthwith https://github.com/forthwith-dev/scoop-forthwith
+scoop bucket add forthwith https://github.com/Forthwith-LLC/scoop-forthwith
 scoop install forthwith
 ```
 
