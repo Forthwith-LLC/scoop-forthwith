@@ -2,7 +2,7 @@
   "version": "1.0.2",
   "description": "Forthwith CLI - manage your Forthwith resources from the command line",
   "homepage": "https://github.com/Forthwith-LLC/forthwith-releases",
-  "license": "Proprietary",
+  "license": "MIT",
   "architecture": {
     "64bit": {
       "url": "https://github.com/Forthwith-LLC/forthwith-releases/releases/download/v1.0.2/forthwith_1.0.2_windows_amd64.zip",
