@@ -23,9 +23,8 @@ scoop bucket rm forthwith
 ```
 
 ## About
-This bucket is maintained by forthwith-dev. The manifest in this repository is automatically updated by the release pipeline when a new version of Forthwith CLI is published.
+This bucket is maintained by Forthwith LLC. The manifest in this repository is automatically updated by the release pipeline when a new version of Forthwith CLI is published.
 
 For documentation and support, visit [forthwith.dev](https://forthwith.dev).
-
 
 
